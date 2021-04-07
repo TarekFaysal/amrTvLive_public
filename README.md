@@ -14,22 +14,8 @@ Google play store link: https://play.google.com/store/apps/details?id=com.bmsglo
 Youtube Video Link: https://www.youtube.com/watch?v=K3eIpDW89Ys
 
 <h3>App Show case Images</h3>
-<img src="/playTime/Screenshot_20210406-163603.png" width="300" height="600">
-<img src="/playTime/Screenshot_20210406-163634.png" width="300" height="600">
-<img src="/playTime/Screenshot_20210406-163648.png" width="300" height="600">
-<img src="/playTime/Screenshot_20210406-163703.png" width="300" height="600">
-<img src="/playTime/Screenshot_20210406-163751.png" width="300" height="600">
-<img src="/playTime/Screenshot_20210406-163751.png" width="300" height="600">
-<img src="/playTime/Screenshot_20210406-163827.png" width="300" height="600">
-<img src="/playTime/Screenshot_20210406-163835.png" width="300" height="600">
-<img src="/playTime/Screenshot_20210406-164108.png" width="300" height="600">
-<img src="/playTime/Screenshot_20210406-164122.png" width="300" height="600">
-<img src="/playTime/Screenshot_20210406-164131.png" width="300" height="600">
-<img src="/playTime/Screenshot_20210406-164136.png" width="300" height="600">
-<img src="/playTime/Screenshot_20210406-164145.png" width="300" height="600">
-<img src="/playTime/Screenshot_20210406-164202.png" width="300" height="600">
-<img src="/playTime/Screenshot_20210406-164216.png" width="300" height="600">
-<img src="/playTime/Screenshot_20210406-164300.png" width="300" height="600">
-<img src="/playTime/Screenshot_20210406-164309.png" width="300" height="600">
-<img src="/playTime/Screenshot_20210406-164318.png" width="300" height="600">
-<img src="/playTime/Screenshot_20210406-164329.png" width="300" height="600">
+<img src="/amrTvLive/Screenshot_20210406-164358.png" width="600" height="300">
+<img src="/amrTvLive/Screenshot_20210406-164413.png" width="600" height="300">
+<img src="/amrTvLive/Screenshot_20210407-112304.png" width="600" height="300">
+<img src="/amrTvLive/Screenshot_20210406-164447.png" width="300" height="600">
+<img src="/amrTvLive/Screenshot_20210406-164453.png" width="300" height="600">
