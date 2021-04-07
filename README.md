@@ -21,3 +21,4 @@ Youtube Video Link: https://www.youtube.com/watch?v=K3eIpDW89Ys
 <img src="/amrTvLive/Screenshot_20210406-164447.png" width="300" height="600">
 <img src="/amrTvLive/Screenshot_20210406-164453.png" width="300" height="600">
 <h4>App Admin Panel Images</h4> 
+<img src="/amrTvLiveAdminPanel/1.png" width="600" height="240">
