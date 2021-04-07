@@ -22,3 +22,15 @@ Youtube Video Link: https://www.youtube.com/watch?v=K3eIpDW89Ys
 <img src="/amrTvLive/Screenshot_20210406-164453.png" width="300" height="600">
 <h4>App Admin Panel Images</h4> 
 <img src="/amrTvLiveAdminPanel/1.png" width="600" height="240">
+<img src="/amrTvLiveAdminPanel/2.png" width="600" height="274">
+<img src="/amrTvLiveAdminPanel/3.png" width="600" height="245">
+<img src="/amrTvLiveAdminPanel/4.png" width="600" height="177">
+<img src="/amrTvLiveAdminPanel/5.png" width="600" height="240">
+<img src="/amrTvLiveAdminPanel/6.png" width="600" height="240">
+<img src="/amrTvLiveAdminPanel/7.png" width="600" height="240">
+<img src="/amrTvLiveAdminPanel/8.png" width="600" height="240">
+<img src="/amrTvLiveAdminPanel/9.png" width="600" height="240">
+<img src="/amrTvLiveAdminPanel/10.png" width="600" height="240">
+<img src="/amrTvLiveAdminPanel/11.png" width="600" height="240">
+<img src="/amrTvLiveAdminPanel/12.png" width="600" height="240">
+<img src="/amrTvLiveAdminPanel/13.png" width="600" height="240">
